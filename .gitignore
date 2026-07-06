@@ -1,0 +1,22 @@
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# React
+**/node_modules/
+**/dist/cd
+
+# Spring Boot
+**/target/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

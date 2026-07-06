@@ -1,0 +1,59 @@
+body{
+
+  background:#FFF8DC;
+  font-family:'Poppins',sans-serif;
+
+}
+.NavBar
+{
+  background:#F9A825;
+}
+card
+{
+  border-radius:20px;
+}
+button
+{
+  background:#F9A825;
+}
+.sidebar-button{
+
+  border-radius:15px;
+
+  margin-bottom:15px;
+
+  font-weight:600;
+
+  transition:.3s;
+
+}
+.sidebar-button:hover{
+
+  transform:translateX(8px);
+
+}
+.card{
+
+  border-radius:18px;
+
+  box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+.sidebar{
+
+  position:fixed;
+
+  left:0;
+
+  top:0;
+
+  height:100vh;
+
+  width:220px;
+
+}
+.main{
+
+  margin-left:220px;
+
+}
