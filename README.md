@@ -27,7 +27,14 @@ TECH STACK
   MySQL
   
 SCREENSHOTS
-{*here soon*}
+
+![Dashboard](screenshots/dashboard.png)
+
+![Applications](screenshots/applications.png)
+
+![Schedule](screenshots/schedule.png)
+
+![Analytics](screenshots/analytics.png)
 
 FUTURE IMPROVEMENTS
 1) User Authentication
